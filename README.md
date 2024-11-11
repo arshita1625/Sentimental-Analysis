@@ -19,7 +19,6 @@ Libraries:
 -xgboost: For training the machine learning model.
 
 <img width="666" alt="Screenshot 2024-11-11 at 1 53 40 AM" src="https://github.com/user-attachments/assets/4059cf3c-dadd-4955-9656-4a00cc256bf1">
-<img width="724" alt="Screenshot 2024-11-11 at 1 54 09 AM" src="https://github.com/user-attachments/assets/bc25254d-4d42-44cf-8402-b9e12c1b4997">
 
 <img width="582" alt="Screenshot 2024-11-11 at 1 54 26 AM" src="https://github.com/user-attachments/assets/94e61560-173e-460d-86a8-38bab0540c8e">
 
